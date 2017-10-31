@@ -8,4 +8,4 @@ class Hello extends Component {
   }
 }
 
-export default Hello 
+export default Hello
